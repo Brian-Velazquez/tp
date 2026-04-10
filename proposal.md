@@ -5,8 +5,8 @@
 * 42067 - Velazquez Brian 
 
 ### Repositorios
-* [frontend app](git@github.com:Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
-* [backend app](git@github.com:Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
+* [frontend app](https://github.com/Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
+* [backend app](https://github.com/Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema

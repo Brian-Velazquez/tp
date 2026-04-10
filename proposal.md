@@ -14,7 +14,7 @@
 *2 a 6 líneas describiendo el negocio (menos es más)*
 
 ### Modelo
-![zxc](https://drive.google.com/file/d/1HkBi0CSCM8QvSzDjFST8UExVmS4l8_OL/view?usp=drive_link)
+![zxc](https://drive.google.com/file/d/1HkBi0CSCM8QvSzDjFST8UExVmS4l8_OL/view?usp=sharing)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 

@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 42067 - Velazquez Brian 
 
 ### Repositorios
 * [frontend app](git@github.com:Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)

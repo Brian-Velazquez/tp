@@ -14,7 +14,7 @@
 *2 a 6 líneas describiendo el negocio (menos es más)*
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](https://app.diagrams.net/#G1x_IENQlL_P_Hldy0b9FfVQatDMN8ztZw#%7B%22pageId%22%3A%22M8f1pxeDaxumkL6gdidB%22%7D)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 

@@ -5,8 +5,8 @@
 * legajo - Apellido(s), Nombre(s)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](git@github.com:Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
+* [backend app](git@github.com:Brian-Velazquez/Ciencia-de-Datos---Detecci-n-de-Clientes-Morosos-.git)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
